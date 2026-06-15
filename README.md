@@ -16,7 +16,7 @@
 
 ## 👨‍💼 About Me
 
-Engineering leader with **10+ years** of experience building high-impact, enterprise-grade platforms. Currently heading a **50+ person engineering organization** at **LoveInStore Technologies**, delivering solutions to **107+ enterprise clients** across India, Indonesia, and Thailand.
+Engineering leader with **12+ years** of experience building high-impact, enterprise-grade platforms. Currently heading a **50+ person engineering organization** at **LoveInStore Technologies**, delivering solutions to **107+ enterprise clients** across India, Indonesia, and Thailand.
 
 My work sits at the intersection of **platform engineering**, **AI/ML integration**, and **fintech compliance** — from ₹600–700 Cr vendor incentive payouts to AI-powered shelf intelligence for India's top FMCG brands.
 
