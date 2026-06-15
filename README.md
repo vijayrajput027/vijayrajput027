@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Director of Engineering · LoveInStore Technologies</b><br/>
-  <sub>Building enterprise platforms at scale · Gurgaon, India · 10+ years in engineering leadership</sub>
+  <sub>Building enterprise platforms at scale · Gurgaon, India · 12+ years in engineering leadership</sub>
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@ My work sits at the intersection of **platform engineering**, **AI/ML integratio
 
 **Languages & Frameworks**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Cloud & Infrastructure**
 
